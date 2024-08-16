@@ -46,7 +46,7 @@ d) None of the above
 
 **Description**  
 
-The accept function on the server side is executed after the client has called connect. accept blocks and waits for an incoming connection request from the client.  
+The accept function on the server side is executed after the client has called connect. Accept blocks and waits for an incoming connection request from the client.  
 
 ---  
 ---  
