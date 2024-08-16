@@ -69,7 +69,27 @@ The IP address "127.0.0.1" represents the loopback IP address. This address is u
 ---  
 
 
-5 : What does the port number "65432" in the TCP view signify here?  
+5 : What does the port number "65432" in the TCP view signify here? 
+
+<img src="https://github.com/sourcelens/Essential_Computer_Networking_for_DevOps_Cloud_and_More/blob/main/Questions/L_12_Netstat_Command_and_TCP_View/Images/lecture12_quizpic.png" width="300"/>  
+
+
+a) The server's listening port  
+b) The client's listening port  
+c) A random port assigned by the operating system  
+d) The default port for TCP communication  
+
+**Answer** a)  
+
+**Description**  
+
+The port number "65432" signifies the server's listening port. This port is used by the server to accept incoming connections from clients. It is a specific port configured within the program for communication purposes.  
+
+---  
+---  
+
+
+6 : 
 
 
 
