@@ -28,7 +28,7 @@ c) Both of the above
 d) None of the above  
 
 
-**Answer**c) 
+**Answer** c) 
 
 
 **Description**
@@ -47,7 +47,7 @@ c) Both of the above
 d) None of the above  
 
 
-**Answer**c)  
+**Answer** c)  
 
 
 **Description**  
