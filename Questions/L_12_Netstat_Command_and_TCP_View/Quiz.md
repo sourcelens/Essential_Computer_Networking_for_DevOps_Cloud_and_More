@@ -89,7 +89,21 @@ The port number "65432" signifies the server's listening port. This port is used
 ---  
 
 
-6 : 
+6 : What is the significance of the different process IDs (PID) observed in the TCP View?  
+
+a) They represent the port each process listen  
+b) They indicate different programs or applications  
+c) They are randomly assigned by the operating system  
+d) They correspond to specific network protocols  
+
+**Answer** b)  
+
+**Description**  
+
+The different process IDs (PID) observed in the TCP View indicate that each entry corresponds to a different program or application running on the system. Each PID uniquely identifies a separate instance of a program, suggesting that multiple programs are involved in network communication.  
+
+---  
+---  
 
 
 
