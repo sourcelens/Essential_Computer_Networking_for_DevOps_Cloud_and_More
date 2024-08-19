@@ -87,5 +87,26 @@ The "C:\Windows\System32" directory houses the critical components and files of 
 ---  
 
 
-6 : 
+6 : What does the term "kernel" refer to in an operating system?  
+
+a) A type of hardware component  
+b) The primary user interface of the OS  
+c) The core part of the operating system managing system resources  
+d) A secondary storage device  
+
+**Answer** c)  
+
+**Description**  
+
+The kernel is the fundamental part of an operating system, responsible for managing system resources, such as CPU, memory, and hardware devices.  
+
+---  
+---  
+
+
+7 : Why are certain hardware devices displayed with a question mark in Device Manager?  
+
+
+
+
 
