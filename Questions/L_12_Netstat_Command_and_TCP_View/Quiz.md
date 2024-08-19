@@ -71,7 +71,7 @@ The IP address "127.0.0.1" represents the loopback IP address. This address is u
 
 5 : What does the port number "65432" in the TCP view signify here? 
 
-<img src="https://github.com/sourcelens/Essential_Computer_Networking_for_DevOps_Cloud_and_More/blob/main/Questions/L_12_Netstat_Command_and_TCP_View/Images/lecture12_quizpic.png" width="300"/>  
+<img src="https://github.com/sourcelens/Essential_Computer_Networking_for_DevOps_Cloud_and_More/blob/main/Questions/L_12_Netstat_Command_and_TCP_View/Images/lecture12_quizpic.png" width="500"/>  
 
 
 a) The server's listening port  
