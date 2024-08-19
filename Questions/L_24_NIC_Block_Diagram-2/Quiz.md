@@ -56,7 +56,7 @@ The transport layer, specifically the TCP protocol within it, is responsible for
 4 : Which tool captures information from the bottom layer of TCP/IP and is able to show call stacks?  
 
 a) Netstat  
-b) Process Monitor
+b) Process Monitor  
 c) Resource Monitor  
 d) TCP View  
 
