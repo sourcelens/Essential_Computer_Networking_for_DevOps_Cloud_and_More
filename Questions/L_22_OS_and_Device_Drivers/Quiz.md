@@ -108,5 +108,53 @@ The kernel is the fundamental part of an operating system, responsible for manag
 
 <img src="Images/lecture22_quizpic_2" width="500"/>  
 
+a) They are functioning correctly  
+b) They are not physically connected to the computer  
+c) They do not have the appropriate device driver installed  
+d) They are recognized as software rather than hardware  
+
+**Answer** c)  
+
+**Description**  
+
+A question mark in Device Manager indicates that the operating system does not have the necessary device driver to communicate with the hardware device.  
+
+---  
+---  
+
+
+8 : What is the primary purpose of a network interface card (NIC) in a computer system?  
+
+a) To perform arithmetic operations  
+b) To manage primary and secondary memory  
+c) To connect the computer to a network  
+d) To display graphics on the monitor  
+
+**Answer** c)  
+
+**Description**  
+
+A network interface card (NIC) facilitates network connectivity by allowing the computer to communicate with other devices over a network.  
+
+---  
+---  
+
+
+9 : What is the primary difference between user mode and kernel mode in an operating system?  
+
+a) User mode can directly access hardware, while kernel mode cannot  
+b) Kernel mode can directly access hardware and execute privileged instructions, while user mode cannot  
+c) User mode has unrestricted access to all system resources, while kernel mode has restricted access  
+d) Both user mode and kernel mode have equal access to system resources  
+
+**Answer** b)  
+
+**Description**  
+
+Kernel mode has unrestricted access to all system resources, including hardware and memory, and can execute privileged instructions. User mode, on the other hand, runs with restricted access to ensure system stability and security.  
+
+---  
+---  
+
 
 
