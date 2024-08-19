@@ -21,7 +21,7 @@ The kernel mode of the operating system handles privileged actions such as inter
 
 2 : Which driver does the "connect" call made by user-mode applications reach first in windows OS?  
 
-a) TCP/IP
+a) TCP/IP  
 b) NDIS  
 c) AFD  
 d) None of the above  
