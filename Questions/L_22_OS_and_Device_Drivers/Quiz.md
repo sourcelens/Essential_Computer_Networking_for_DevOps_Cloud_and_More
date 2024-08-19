@@ -106,7 +106,7 @@ The kernel is the fundamental part of an operating system, responsible for manag
 
 7 : Why are certain hardware devices displayed with a question mark in Device Manager?  
 
-
+<img src="Images/lecture22_quizpic_2" width="500"/>  
 
 
 
