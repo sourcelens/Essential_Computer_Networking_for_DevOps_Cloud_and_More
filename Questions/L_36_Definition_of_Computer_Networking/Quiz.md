@@ -72,7 +72,7 @@ A Layer 2 device, such as a switch, handles MAC addresses, reading and writing d
 
 5 : Which of the following is a characteristic of Layer 4 in the OSI model?  
 
-a) Deals with physical transmission
+a) Deals with physical transmission  
 b) Deals with IP addressing  
 c) Deals with port numbers and TCP  
 d) Deals with application data  
