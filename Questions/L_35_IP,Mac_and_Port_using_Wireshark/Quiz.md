@@ -89,7 +89,23 @@ NAT (Network Address Translation) is used to convert private local IP addresses 
 ---  
 
 
-6 : What information does the source port number in the TCP layer indicate in the below Wireshark output?
+6 : What information does the source port number in the TCP layer indicate in the below Wireshark output?  
+
+<img src="Images/lecture35_quizpic_4.png" width="500"/>  
+
+a) The destination application on the remote system  
+b) The application responsible for sending the packet on the local system  
+c) The physical address of the local network interface  
+d) The IP address of the destination system  
+
+**Answer** b)  
+
+**Description**  
+
+ The source port number in the TCP layer indicates the application responsible for sending the packet on the local system. Each port number is associated with a specific application or service.  
+
+ ---  
+ ---  
 
 
 
