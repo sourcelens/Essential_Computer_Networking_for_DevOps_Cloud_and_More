@@ -20,4 +20,21 @@ A checksum is used to verify that the data has not been altered or corrupted dur
 
 2 : What does the destination MAC address in the SYN packet captured using Wireshark indicate?  
 
+<img src="Images/lecture37_quizpic_5.png" width="500"/>  
+
+a) Destination MAC address which is the physical address of the device the packet is going to  
+b) Destination MAC address which is the physical address of the device the packet is generated  
+c) The destination MAC address is always the IP address of the device the packet is going to  
+d) None of the above  
+
+**Answer** a)  
+
+**Description**  
+
+The destination MAC address is the physical address of the device the packet is going to. Here the SYN packet is going from client to server. So the destination MAC address of the SYN packet is the MAC address of the server.  
+
+---  
+---  
+
+
 
