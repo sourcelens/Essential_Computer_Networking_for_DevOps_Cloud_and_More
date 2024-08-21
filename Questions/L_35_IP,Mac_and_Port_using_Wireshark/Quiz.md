@@ -53,7 +53,48 @@ The MAC (Media Access Control) address represents the physical address of networ
 ---  
 
 
-4 : 
+4 : What protocol is indicated by the layer showing "encrypted data" in the Wireshark output?  
+
+<img src="Images/lecture35_quizpic_3.png" width="500"/>  
+
+a) HTTP  
+b) TCP  
+c) TLS/SSL  
+d) DNS  
+
+**Answer** c)  
+
+**Description**  
+
+The layer showing "encrypted data" in Wireshark indicates the use of TLS (Transport Layer Security) or SSL (Secure Sockets Layer), which are protocols used to encrypt data for secure communication over a network.  
+
+---  
+---  
+
+
+5 : What is the purpose of the NAT (Network Address Translation) technique?  
+
+a) To translate domain names to IP addresses  
+b) To convert private local IP addresses to public IP addresses  
+c) To encrypt data being sent over the network  
+d) To assign MAC addresses to devices on a network  
+
+**Answer** b)  
+
+**Description**  
+
+NAT (Network Address Translation) is used to convert private local IP addresses (such as those assigned by a home router) to public IP addresses that can be used on the internet, allowing multiple devices on a local network to share a single public IP address.  
+
+---  
+---  
+
+
+6 : What information does the source port number in the TCP layer indicate in the below Wireshark output?
+
+
+
+   
+
 
 
 
