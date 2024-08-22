@@ -250,6 +250,27 @@ Layer 2 is being read by the Router When the packet is routed within the subet.
 
 <img src="Images/lecture42_quizpic_15.png" width="500"/>  
 
+a) Router  
+b) Ethernet port of Router  
+c) Computers connected to subnet with NIC  
+d) Ethernet cable  
+
+**Answer** d)  
+
+**Description**  
+
+It is the ethernet cable connecting the NIC card of the computer to the ethernet port of the router.  
+
+---  
+---  
+
+
+16 : Referring to the image below from the lesson what is the highlighted part in green square?  
+
+<img src="Images/lecture42_quizpic_16.png" width="500"/>  
+
+a) 
+
 
 
 
