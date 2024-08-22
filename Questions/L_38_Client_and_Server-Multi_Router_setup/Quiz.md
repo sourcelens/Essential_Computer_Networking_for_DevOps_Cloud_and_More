@@ -39,3 +39,24 @@ The device in the picture inside the red square is a router.
 
 
 3 : What are the ports highlighted in green in the below diagram of a router called?  
+
+<img src="Images/lecture38_quizpic_7.png" width="500"/>  
+
+a) LAN port  
+b) WAN port  
+c) Application port  
+d) TCP port  
+
+**Answer** a)  
+
+**Description**  
+
+These are the LAN ports of a router.  
+
+---  
+---  
+
+
+4 : What is the port in the blue square in the below router called?  
+
+
