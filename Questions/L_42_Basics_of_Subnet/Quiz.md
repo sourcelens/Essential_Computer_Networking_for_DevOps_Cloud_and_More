@@ -269,7 +269,38 @@ It is the ethernet cable connecting the NIC card of the computer to the ethernet
 
 <img src="Images/lecture42_quizpic_16.png" width="500"/>  
 
-a) 
+a) Router  
+b) Ethernet port of Router  
+c) Computers connected to subnet with NIC  
+d) Ethernet cable  
+
+**Answer** a)  
+
+**Description**  
+
+It is router.  
+
+---  
+---  
+
+
+17 : Referring to the image below from the lesson what is the highlighted part in green square?  
+
+<img src="Images/lecture42_quizpic_17.png" width="500"/>  
+
+a) Router  
+b) Ethernet port of Router  
+c) Computers connected to subnet with NIC  
+d) Wifi Connection   
+
+**Answer** a)  
+
+**Description**  
+
+Wifi Connection is what is represented in green square.  
+
+---  
+---  
 
 
 
