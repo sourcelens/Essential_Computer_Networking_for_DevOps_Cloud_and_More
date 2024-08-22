@@ -55,4 +55,23 @@ The NIC is connected to the computer through the PCI slot on the motherboard, en
 
 4 : Referring to the image below from the lesson what is the highlighted part in green?  
 
+<img src="Images/lecture42_quizpic_12.png" width="500"/>  
 
+a) Router  
+b) Ethernet port of Router  
+c) Ethernet port of NIC  
+d) Ethernet cable  
+
+**Answer** b)  
+
+**Description**  
+
+It is the Ethernet port of Router. An Ethernet port is also known as a LAN port.  
+
+---  
+---  
+
+
+5 : Referring to the image below from the lesson what is the highlighted part in green square?  
+
+<img src="Images/lecture42_quizpic_13.png" width="500"/>  
