@@ -350,7 +350,7 @@ Address reservation in DHCP allows network administrators to assign a specific I
 
 <img src="Images/lecture44_quizpic_19.png" width="500"/>  
 
-a) 
+a) .
 
 
 
