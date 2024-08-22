@@ -59,4 +59,20 @@ These are the LAN ports of a router.
 
 4 : What is the port in the blue square in the below router called?  
 
+<img src="Images/lecture38_quizpic_8.png" width="500"/>  
+
+a) LAN port  
+b) TCP port  
+c) Http port  
+d) WAN port  
+
+**Answer** d)  
+
+**Description**  
+
+The highlighted part is the WAN port of the router.  
+
+---  
+---  
+
 
