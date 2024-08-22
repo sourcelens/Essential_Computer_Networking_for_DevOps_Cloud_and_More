@@ -350,7 +350,101 @@ Address reservation in DHCP allows network administrators to assign a specific I
 
 <img src="Images/lecture44_quizpic_19.png" width="500"/>  
 
-a) .
+a) A list strictly for reserved IP addresses and their MAC address for devices on the subnet  
+b) A list of all IP addresses available for lease in the DHCP server  
+c) A list of devices currently connected to the subnet, their MAC address, Lease time and assigned IP addresses by the DHCP server  
+d) A list of MAC addresses used by devices to communicate on the subnet  
+
+**Answer** c)  
+
+**Description**  
+
+The DHCP client list maintains records of devices that have obtained IP addresses from the DHCP server. It typically includes information such as IP addresses assigned, lease durations, and MAC addresses of devices currently active on the subnet. 
+
+---  
+---  
 
 
+22 : What information does a DHCPDISCOVER packet typically contain?  
+
+a) Source IP address  
+b) Destination MAC address  
+c) Client's MAC address  
+d) Server's IP address  
+
+**Answer** c)  
+
+**Description**  
+
+The DHCPDISCOVER packet includes the MAC address of the client device seeking an IP address lease from the DHCP server.  
+
+---  
+---  
+
+
+23 : Which field in a DHCPDISCOVER  packet helps DHCP server to identify the client that is seeking an IP address?  
+
+a) Source IP address  
+b) DHCP server IP address  
+c) Client hardware address (MAC address)  
+d) Broadcast flag  
+
+**Answer** c)  
+
+**Description**  
+
+The client hardware address (MAC address) uniquely identifies the client device that sends out the DHCPDISCOVER packet to request an IP address from the DHCP server.  
+
+---  
+---  
+
+24 : Where is the DHCPDISCOVER packet typically broadcasted on a subnet?  
+
+a) To the DHCP server  
+b) To the default gateway  
+c) To all devices on the subnet  
+d) To the DNS server  
+
+**Answer** c)  
+
+**Description**  
+
+The DHCPDISCOVER packet is broadcasted to all devices on the subnet, including the DHCP server, to request configuration information and an IP address lease.  
+
+---  
+---  
+
+
+25 : Which transport layer protocol is used by DHCPDISCOVER packets?  
+
+a) TCP  
+b) UDP  
+c) ICMP  
+d) HTTP  
+
+**Answer** b)  
+
+**Description**  
+
+ DHCP uses the User Datagram Protocol (UDP) as transport layer protocol.  
+
+ ---  
+ ---  
+
+
+26 : What information does the UDP layer of a DHCP Discover packet typically contain?  
+
+ a) Source port  
+ b) Destination port  
+ c) Length  
+ d) All the above  
+
+ **Answer** d)  
+
+**Description**  
+
+The UDP layer of a DHCP Discover packet typically contain Source port, destination port and length.  
+
+---  
+---  
 
