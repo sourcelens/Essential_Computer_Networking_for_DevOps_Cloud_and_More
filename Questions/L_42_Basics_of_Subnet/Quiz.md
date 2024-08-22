@@ -195,5 +195,64 @@ Mac address is embedding inside the hardware.
 
 12 : Between what and what the ethernet cable is connecting in the previous lecture?  
 
+<img src="Images/lecture42_quizpic_14.png" width="500"/>  
+
+a) Internet and client  
+b) NIC card and Router  
+c) Server and client  
+d) None of the above  
+
+**Answer** b)  
+
+**Description**  
+
+NIC card and Router is connected by an ethernet cable.  
+
+---  
+---  
+
+
+13 : What number is unique for a particular NIC card?  
+
+a) MAC address  
+b) IP address  
+c) Binary address  
+d) None of the above  
+
+**Answer** a)  
+
+**Description**  
+
+MAC address is unique for a particular NIC card.  
+
+---  
+---  
+
+
+14 : When the packet is routed within the subnet which layer is being read by the Router?  
+
+a) Layer 2  
+b) Layer 4  
+c) Layer 1  
+d) Layer 7  
+
+**Answer** a)  
+
+**Description**  
+
+Layer 2 is being read by the Router When the packet is routed within the subet.  
+
+---  
+---  
+
+
+15 : Referring to the image below from the lesson what is the highlighted part in green square?  
+
+<img src="Images/lecture42_quizpic_15.png" width="500"/>  
+
+
+
+
+
 
 
