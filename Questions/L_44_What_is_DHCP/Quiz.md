@@ -331,5 +331,26 @@ The address lease time refers to the period during which a DHCP client can use t
 
 <img src="Images/lecture44_quizpic_18.png" width="500"/>  
 
+a) A feature that automatically assigns IP addresses to new devices joining the subnet  
+b) A method to reserve a specific IP address for a device based on its MAC address  
+c) The process of leasing IP addresses for a specific period of time  
+d) A mechanism to secure IP addresses from unauthorized access  
+
+**Answer** b)  
+
+**Description**  
+
+Address reservation in DHCP allows network administrators to assign a specific IP address to a device, ensuring that the device always receives the same IP address whenever it is part of that subnet. This is typically based on the device's MAC address to ensure consistency.  
+
+---  
+---  
+
+
+21 : What is a DHCP client list?  
+
+<img src="Images/lecture44_quizpic_19.png" width="500"/>  
+
 a) 
+
+
 
