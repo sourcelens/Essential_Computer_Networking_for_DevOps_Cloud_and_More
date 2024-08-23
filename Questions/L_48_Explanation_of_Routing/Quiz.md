@@ -121,5 +121,39 @@ The route print command is used to display the route table on a Windows machine,
 ---  
 
 
-9 : 
+9 : What information is typically included in a route table entry?  
+
+<img src="Images/lecture48_quizpic_20.png" width="500"/>  
+
+a) Destination IP, gateway, subnet mask, flags, metric, and interface  
+b) Source IP, MAC address, protocol, and encryption type  
+c) Bandwidth, latency, jitter, and packet loss  
+d) Domain name, TTL, and DNS server  
+
+**Answer** a)  
+
+**Description**  
+
+A route table entry typically includes the destination IP, gateway, subnet mask, flags, metric, and interface, which together determine how packets are routed through the network.  
+
+---  
+---  
+
+
+10 : Which of the following best describes a "hop" in the context of the tracert command?  
+
+a) The time it takes for a packet to travel from source to destination  
+b) A step along the route where the packet is forwarded from one router to another  
+c) The encryption protocol used during the data transfer  
+d) The total number of packets sent  
+
+**Answer** b)  
+
+**Description**  
+
+A "hop" in the context of the tracert command refers to each step along the route where the packet is forwarded from one router to another.  
+
+---  
+---  
+
 
