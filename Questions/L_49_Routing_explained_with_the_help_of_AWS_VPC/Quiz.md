@@ -76,5 +76,24 @@ The blue box represents an AWS VPC.
 
 <img src="Images/lecture49_quizpic_22.png" width="500"/>  
 
+a) AWS VPC  
+b) AWS SG  
+c) AWS NAT gateway  
+d) Subnet inside AWS VPC  
+
+**Answer** d)  
+
+**Description**  
+
+It represents two subnets inside an AWS VPC.  
+
+---  
+---  
+
+
+6 : According to the diagram, how the subnets are connected?  
+
+
+
 
 
