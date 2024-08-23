@@ -341,7 +341,66 @@ The public IP address of a client is the IP address assigned by the client's Int
 ---  
 
 
-20 : 
+20 : Which of the following statements correctly describes the relationship between socket.SOCK_STREAM and the TCP protocol in Python's socket programming?  
+
+a) socket.SOCK_STREAM is used to create a socket that operates with the UDP protocol  
+b) socket.SOCK_STREAM is a type of socket that provides datagram (connectionless) services  
+c) socket.SOCK_STREAM is used to create a socket that operates with the TCP protocol, providing reliable, connection-oriented services  
+d) socket.SOCK_STREAM is a protocol identifier that specifies the use of ICMP for socket communication  
+
+**Answer** c)  
+
+**Description**  
+
+socket.SOCK_STREAM creates a socket that uses the TCP protocol, which is reliable and connection-oriented.  
+
+---  
+---  
+
+
+21 : To whom the destination IP address of the SYN packet belongs to in the following server trace?  
+
+<img src="Images/lecture51_quizpic_37.png" width="500"/>  
+
+a) The private IP address of the server  
+b) The public IP address of the server  
+c) The private IP address of the client  
+d) The public IP address of the client  
+
+**Answer** a)  
+
+**Description**  
+
+172.31.2.107 is the private IP address of the aws EC2 instance where the server is running.  
+
+---   
+---   
+
+
+22 : In the below server trace, the MAC address of the source in the SYN packet belongs to ___________.  
+
+<img src="Images/lecture51_quizpic_38.png" width="500"/>  
+
+a) The default gateway of the client  
+b) The mac address of the server  
+c) The default gateway of the server  
+d) None of the above  
+
+**Answer** c)  
+
+**Description**  
+
+It is the MAC address of the default gateway of the server.  
+
+---  
+---  
+
+
+23 : 
+
+
+
+
 
 
 
