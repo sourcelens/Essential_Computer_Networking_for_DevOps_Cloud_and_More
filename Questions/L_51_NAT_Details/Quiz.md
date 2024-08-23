@@ -396,7 +396,66 @@ It is the MAC address of the default gateway of the server.
 ---  
 
 
-23 : 
+23 : In the below server trace, the destination MAC address of the SYN packet belongs to the _____________.  
+
+<img src="Images/lecture51_quizpic_39.png" width="500"/>  
+
+a) Physical address of the Server  
+b) Default gateway of server  
+c) Default gateway of client  
+d) Physical address of client  
+
+**Answer** a)  
+
+**Description**  
+
+The destination MAC address in the server trace of the SYN packet belongs to the physical MAC address of the server.  
+
+---  
+---  
+
+
+24 : In the client trace of the SYN packet whose is the destination IP address?  
+
+<img src="Images/lecture51_quizpic_40.png" width="500"/>  
+
+a) The public IP address of the server  
+b) The private IP address of the server  
+c) The public IP address of the client's router  
+d) None of the above  
+
+**Answer** a)  
+
+**Description**  
+
+In the client trace of the SYN packet the destination IP address is the public IP address of the server.  
+
+---  
+---  
+
+
+25 : In the Client trace of the SYN packet, the source IP address belongs to the ________.  
+
+<img src="Images/lecture51_quizpic_41.png" width="500"/>  
+
+a) The internal IP address of the client  
+b) The public IP of the client  
+c) The default gateway of the client  
+d) None of the above  
+
+**Answer** a)  
+
+**Description**  
+
+192.168.1.213 is the local IP address of the client laptop. Client is the source of the SYN packet.  
+
+---  
+---  
+
+
+
+
+
 
 
 
