@@ -57,7 +57,24 @@ Correct. NAT translates private IP addresses in an internal network to a public 
 
 <img src="Images/lecture51_quizpic_29.png" width="500"/>  
 
+a) The server's firewall modifies the IP address  
+b) The client's operating system changes the IP address dynamically  
+c) The client router replaces the client's IP address with its own IP address  
+d) The client uses a different IP address for each connection attempt  
 
+**Answer** c)  
+
+**Description**  
+
+In a NAT setup, the router translates the private IP address of the client to its own IP address before forwarding the packet to the server. This process is called NATing.  
+
+---  
+---  
+
+
+5 : In the context of the provided scenario, which device is performing NAT?  
+
+<img src="Images/lecture51_quizpic_30.png" width="500"/>  
 
 
 
