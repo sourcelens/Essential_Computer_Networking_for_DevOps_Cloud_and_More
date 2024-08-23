@@ -55,4 +55,26 @@ A Virtual Private Cloud (VPC) in AWS is described as a set of IP addresses or a 
 
 4 : In the below picture, what is represented as the blue box?  
 
+<img src="Images/lecture49_quizpic_21.png" width="500"/>  
+
+a) AWS VPC  
+b) AWS SG  
+c) AWS Nat gateway  
+d) None of the above  
+
+**Answer** a)  
+
+**Description**  
+
+The blue box represents an AWS VPC.  
+
+---  
+---  
+
+
+5 : What does the coral box represents in the below diagram?  
+
+<img src="Images/lecture49_quizpic_22.png" width="500"/>  
+
+
 
