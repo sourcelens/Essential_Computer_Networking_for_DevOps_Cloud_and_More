@@ -93,7 +93,7 @@ It represents two subnets inside an AWS VPC.
 
 6 : According to the diagram, how the subnets are connected?  
 
-
+<img src="Images/lecture49_quizpic_23.png" width="500"/>  
 
 
 
