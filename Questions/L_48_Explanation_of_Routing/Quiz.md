@@ -121,6 +121,23 @@ The route print command is used to display the route table on a Windows machine,
 ---  
 
 
+8 : How does the tracert (trace route) command help in networking?  
+
+a) By measuring the bandwidth of a network  
+b) By showing the path packets take to reach a destination  
+c) By encrypting network data  
+d) By displaying the ARP table  
+
+**Answer** b)  
+
+**Description**  
+
+The tracert command helps in networking by showing the path packets take to reach a destination, including each hop and the time taken for each hop.  
+
+---  
+---  
+
+
 9 : What information is typically included in a route table entry?  
 
 <img src="Images/lecture48_quizpic_20.png" width="500"/>  
