@@ -122,7 +122,7 @@ VPNs are commonly used to provide secure remote access to corporate networks, al
 
 8 : In the below VPN diagram, what is inside the red box?  
 
-<img src="Images/lecture65_quizpic_57.png" width="500"/>  
+<img src="Images/lecture66_quizpic_57.png" width="500"/>  
 
 a) VPN client named "s1"  
 b) VPN server  
@@ -141,7 +141,7 @@ In the VPN diagram inside the red box is the VPN client.
 
 9 : What is inside the red box in the VPN diagram below?  
 
-<img src="Images/lecture65_quizpic_58.png" width="500"/>  
+<img src="Images/lecture66_quizpic_58.png" width="500"/>  
 
 a) VPN server  
 b) VPN client  
