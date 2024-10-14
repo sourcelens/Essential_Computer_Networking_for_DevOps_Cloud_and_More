@@ -17,7 +17,7 @@ d) None of the above
 When we are accessing Google.com from our laptop, the google server is the webserver and our web browser is the client.  
 
 ---  
----  
+---
 
 
 2 : We are using vs code as a ____?  
@@ -35,8 +35,8 @@ d) None of the above
 
 Both are correct.  
 
----  
----  
+---
+---
 
 
 3 : We are using wireshark to____?  
@@ -54,5 +54,5 @@ d) None of the above
 
 Wireshark helps to capture and display real-time details of network traffic  and will show the actual data (Binary digits) transferred from client to server and from server to client.  
 
----  
----  
+---
+---
