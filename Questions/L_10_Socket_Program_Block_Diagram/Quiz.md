@@ -1,5 +1,5 @@
----  
----  
+---
+---
 
 1 : Connect is a call which is coming from _____ in a client-server relation?  
 
@@ -14,8 +14,8 @@ d) None of the above
 
 Connect call always comes from a client to the server.  The server is waiting on accept. 
 
----  
----  
+---
+---
 
 
 2 : There can be _____ client/s connecting to a web server like google or Facebook which is listening to a particular port?  
@@ -31,8 +31,8 @@ d) None of the above
 
 It can be any number.
 
----  
----  
+---
+---
 
 
 3 : The first packet of data in a server-client connection is send by ______ .  
