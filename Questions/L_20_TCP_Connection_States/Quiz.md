@@ -26,7 +26,7 @@ b) TIME-WAIT
 c) FIN-WAIT-2  
 d) ESTABLISHED  
 
-**Answer** b)  
+**Answer** c)  
 
 **Description**  
 
