@@ -43,7 +43,7 @@ b) User mode
 c) Debugging mode  
 d) a and b  
 
-**Answer** c)  
+**Answer** b)  
 
 **Description**  
 
