@@ -26,7 +26,7 @@ b) ifconfig
 c) ping  
 d) bridge  
 
-**Answer** b)  
+**Answer** a)  
 
 **Description**  
 
