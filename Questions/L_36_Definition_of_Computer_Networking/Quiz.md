@@ -94,7 +94,7 @@ b) Switch
 c) Firewall  
 d) Load balancer  
 
-**Answer** c)  
+**Answer** b)  
 
 **Description**  
 
