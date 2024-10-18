@@ -6,11 +6,10 @@
 
 a) The device compares MAC addresses  
 b) The device checks the destination IP address against its own subnet mask 
-  
 c) The device checks if the destination MAC address matches its default gateway  
 d) None of the above  
 
-**Answer** c)  
+**Answer** b)  
 
 **Description**  
 
