@@ -111,7 +111,7 @@ b) 82:EE:52:B8:54:7A
 c) 00:00:00:00:00:00  
 d) ff:ff:ff:ff:ff:ff  
 
-**Answer** a)  
+**Answer** d)  
 
 **Description**  
 
@@ -145,7 +145,7 @@ b) Target's IP Address
 c) Target's MAC Address field set to all zeros as it is unknown and is what the request is attempting to discover.  
 d) All of the above  
 
-**Answer** b)  
+**Answer** d)  
 
 **Description**  
 
