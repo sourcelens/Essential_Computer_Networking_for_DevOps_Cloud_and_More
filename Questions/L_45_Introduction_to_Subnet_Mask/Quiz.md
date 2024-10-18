@@ -26,7 +26,7 @@ b) The packet is sent to the source device's router's MAC address
 c) The packet is broadcasted to all devices in both subnets  
 d) The packet is sent to the source device's MAC address first  
 
-**Answer** c)  
+**Answer** b)  
 
 **Description**  
 
