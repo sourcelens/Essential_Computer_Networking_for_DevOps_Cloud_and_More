@@ -136,7 +136,7 @@ b) To route traffic within the VPC
 c) To route traffic to another VPC  
 d) To block external traffic from entering the VPC  
 
-**Answer** a)  
+**Answer** b)  
 
 **Description**  
 
