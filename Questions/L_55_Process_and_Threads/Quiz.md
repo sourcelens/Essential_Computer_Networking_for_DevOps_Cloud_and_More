@@ -9,7 +9,7 @@ b) To identify a specific application or process on a computer
 c) To specify the physical location of a server  
 d) To determine the size of data packets  
 
-**Answer** c)  
+**Answer** b)  
 
 **Description**  
 
