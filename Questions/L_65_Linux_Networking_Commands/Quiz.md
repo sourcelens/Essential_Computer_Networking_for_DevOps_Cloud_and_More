@@ -285,7 +285,10 @@ d) None of the above
 
 **Description**  
 
-ip a add {ip_addr/mask} dev {interface} command is used to add a new IP address to an interface using the ip command in Linux.  For eg: ip a add 192.168.1.200/255.255.255.0 dev eth0.  
+ip a add {ip_addr/mask} dev {interface} command is used to add a new IP address to an interface using the ip command in Linux.  For eg: ip a add 192.168.1.200/255.255.255.0 dev eth0. 
+
+---
+---
 
 
 18 : How would you display the current routing table using the ip command?  
