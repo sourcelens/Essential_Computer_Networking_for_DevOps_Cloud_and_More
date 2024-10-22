@@ -111,7 +111,7 @@ d) All of the above
  c) Both of the above  
  d) None of the above  
 
-**Answer** d)  
+**Answer** c)  
 
 **Description**  
 
